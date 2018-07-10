@@ -889,6 +889,16 @@ img.zoom-img:hover {
     border-radius: 50%;
     margin-bottom: .5em;
 }
+.hobbies-grid1 span.fas {
+    font-size: 30px;
+    border: 1px solid #b5b5b5;
+    width: 70px;
+    height: 70px;
+    line-height: 70px;
+    color: #000;
+    border-radius: 50%;
+    margin-bottom: .5em;
+}
 
 .grid1 span.fa {
 	color: #ff4f81;
@@ -910,7 +920,7 @@ img.zoom-img:hover {
 	color: #ed1b2e;
 	border:2px solid #ed1b2e;
 }
-.grid6 span.fa {
+.grid6 span.fas {
 	color: #7fbb00;
 	border:2px solid #7fbb00;
 }
