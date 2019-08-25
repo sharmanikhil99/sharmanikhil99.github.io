@@ -702,20 +702,26 @@ body, p, h1, h2, h3, h4, h5, h6 {
 .education_area .education_inner_area .education_item:nth-child(even) {
   float: right;
 }
-.education_area .education_inner_area .education_item:nth-child(5):before {
+.education_area .education_inner_area .education_item:nth-child(7):before {
   content: url("pcs.png");
 }
-.education_area .education_inner_area .education_item:nth-child(4):before {
+.education_area .education_inner_area .education_item:nth-child(6):before {
   content: url("flastem.png");
 }
-.education_area .education_inner_area .education_item:nth-child(3):before {
+.education_area .education_inner_area .education_item:nth-child(5):before {
   content: url("usf.png");
 }
-.education_area .education_inner_area .education_item:nth-child(2):before {
+.education_area .education_inner_area .education_item:nth-child(4):before {
   content: url("mitre.png");
 }
-.education_area .education_inner_area .education_item:nth-child(1):before {
+.education_area .education_inner_area .education_item:nth-child(3):before {
   content: url("amphibiaweb.png");
+}
+.education_area .education_inner_area .education_item:nth-child(2):before {
+  content: url("kiwi2.png")
+}
+.education_area .education_inner_area .education_item:nth-child(1):before {
+  content: url("ibm.png")
 }
 .education_area .education_inner_area .education_item:nth-child(even):before {
   right: auto;
